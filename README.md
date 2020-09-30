@@ -1,4 +1,4 @@
 
 {
-  "متن": "pixelworld"
+  "متن": "offline"
 }
