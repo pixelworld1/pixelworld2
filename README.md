@@ -1,5 +1,5 @@
 {
-  "متن": "online",
-  "تصویر": "http://uupload.ir/files/d3qv_screenshot_۲۰۲۰۰۹۲۶-۱۹۴۳۵۱_rubika.jpg",
-  "بروزرسانی": "و"
+  "متن": "offline",
+  "تصویر": "http://uupload.ir/files/mhve_inshot_۲۰۲۰۰۹۲۳_۱۸۲۱۵۳۷۹۱.jpg",
+  "بروزرسانی": "بروزرسانی"
 }
